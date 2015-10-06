@@ -7,6 +7,8 @@ This template attempts to loosely follow the Material Design Standards. Here you
  
 This template was originally developed for use with PhoneGap and Apache Cordova and should be fully compatable with both of these technologies. 
 
+(The images below are old and there has been an update that has changed the look of this template. These pictures need to be updated.) 
+ 
 ![Image of template](http://i.imgur.com/IZfYRvY.png)
 
 The navigation is all located in a pull-out side bar. On desktop the sidebar is accessed by hovering over the left edge of the screen or the red tab on the top left. On mobile it is pulled out by touching the left side of the screen once and it is hidden by touching anything aside from the sidebar. This is achieved with minimal CSS and no scripting. 
